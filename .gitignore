@@ -1,0 +1,6 @@
+*.beam
+erl_crash.dump
+q1_go/pedidos
+q7_linda/.venv/
+q7_linda/linda_server.log
+__pycache__/
